@@ -31,8 +31,11 @@ ai_runtime安装：
 | 测试用例标识符 | 测试用例名称 | 详细说明 | 备注 |
 | :------: | :------ | :------ |  :------ | 
 | tools_case001 | ClassNet训练 |  | |
+| tools_case001 | ClassNet断点训练 |  | |
 | tools_case002 | DeNet训练 |  | |
+| tools_case002 | DeNet断点训练 |  | |
 | tools_case003 | SegNet训练 |  | |
+| tools_case003 | SegNet断点训练 |  | |
 | tools_case004 | 模型转换 |  | |
 | tools_case005 | ClassNet精度测试 |  | |
 | tools_case006 | DeNet精度测试 |  | |
